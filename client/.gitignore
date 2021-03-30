@@ -1,0 +1,10 @@
+# Credentials
+!credentials/
+credentials/*
+!credentials/api_sample.json
+
+# Python binaries
+__pycache__
+
+# Output
+output
